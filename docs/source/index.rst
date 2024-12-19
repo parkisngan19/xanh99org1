@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Xanh99 Org
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Xanh99 <http://xanh99.org/>`_ là một cổng game bài đổi thưởng đáng tin cậy và đáng để thử. Với giao diện đơn giản, tính năng đa dạng, hệ thống bảo mật và thanh toán an toàn, cùng với các khuyến mãi hấp dẫn và dịch vụ chăm sóc khách hàng tốt, Xanh99 đã thu hút được sự quan tâm của đông đảo người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Liên hệ:
 
-.. note::
+Website : http://xanh99.org/
 
-   This project is under active development.
+Địa chỉ: 398 Tân Kỳ Tân Quý, Sơn Kỳ, Q. Tân Phú, TP. HCM
 
-Contents
---------
+Phone: 0377120032
 
-.. toctree::
+Post Code: 700000
 
-   usage
-   api
+#xanh99org #xanh99 #appgamexanh99 #conggamexanh99 #gamebaixanh99
